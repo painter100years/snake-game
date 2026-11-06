@@ -8,5 +8,5 @@ A classic Snake game built using Python.
 - High score tracking
 - Collision detection
 
-# Technologies
+# Language
 - Python
